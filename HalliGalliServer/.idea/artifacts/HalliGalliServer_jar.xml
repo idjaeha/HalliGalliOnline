@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HalliGalliServer:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/HalliGalliServer_jar</output-path>
+    <root id="archive" name="HalliGalliServer.jar">
+      <element id="module-output" name="HalliGalliServer" />
+    </root>
+  </artifact>
+</component>
